@@ -1,0 +1,32 @@
+body {
+	background: grey;
+    height: 100vh;
+}
+.form-box {
+	width: 30%;
+	margin: 30px auto;
+	background: white; 
+	border-radius: 5px;
+	padding: 20px 30px;
+	text-align: center;
+}
+
+ form .shortcut,.last{
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+}
+.clickit{
+	margin-left: -38px;
+}
+
+.last{
+	margin-top: 30px;
+	background: transparent;
+	border: none;
+	color: white;
+	border-radius: 5px;
+	background: blue;
+	text-transform: uppercase;
+
+}
